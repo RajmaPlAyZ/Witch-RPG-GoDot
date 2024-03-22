@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://b7pp5het5gyjm"]
+
+[ext_resource type="Texture2D" uid="uid://c4kr0044um488" path="res://2D Pixel Dungeon Asset Pack/Blue_witch/B_witch_idle.png" id="1_cx4gi"]
+
+[resource]
+atlas = ExtResource("1_cx4gi")
+region = Rect2(0, 0, 32, 48)
